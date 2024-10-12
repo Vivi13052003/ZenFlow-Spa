@@ -21,8 +21,7 @@ function App() {
           <Route path="/" element={<Home/>}/>
           <Route path="/store" element={<Store/>}/>
           <Route path="/contact" element={<Contact/>}/>
-          
-          
+          <h1>Thay doi</h1>
         </Routes>
         </BrowserRouter>
     </>
