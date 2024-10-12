@@ -2,13 +2,8 @@
 import Header from "./component/header";
 import Home from "./component/home";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Store from "./component/store";
 import Contact from "./component/contact";
-
-
-
-
-
+import Store from "./component/store";
 
 
 function App() {
@@ -22,7 +17,8 @@ function App() {
           <Route path="/store" element={<Store/>}/>
           <Route path="/contact" element={<Contact/>}/>
           <h1>Thay doi</h1>
-          <h2>meo cafe</h2>
+          <h2>IdOK</h2>
+       <h1>Abc</>
           <>Thay doi o 123123</>
         </Routes>
         </BrowserRouter>
