@@ -23,7 +23,7 @@ function App() {
           <Route path="/contact" element={<Contact/>}/>
           <h1>Thay doi</h1>
           <h2>meo cafe</h2>
-          <>Thay doi o nhanh Dang Nhap ABC</>
+          <>Thay doi o 123123</>
         </Routes>
         </BrowserRouter>
     </>
