@@ -22,6 +22,7 @@ function App() {
           <Route path="/store" element={<Store/>}/>
           <Route path="/contact" element={<Contact/>}/>
           <h1>Thay doi</h1>
+          <h2>meo cafe</h2>
         </Routes>
         </BrowserRouter>
     </>
